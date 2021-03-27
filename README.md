@@ -8,28 +8,28 @@ keep your skills sharp!
 * More detailed release notes can be found as links to more detailed release pages.
 
 ## Contents
-* [3.10](#Version-3.10)
-* [3.9](#Version-3.9)
-* [3.8](#Version-3.8)
-* [3.7](#Version-3.7)
-* [3.6](#Version-3.6)
+* [3.10](#version-3.10)
+* [3.9](#version-3.9)
+* [3.8](#version-3.8)
+* [3.7](#version-3.7)
+* [3.6](#version-3.6)
 
 ---
 
 ## Version 3.10
-[CONTENTS](#Contents) | [UP]() | [DOWN](#Version-3.9)
+[CONTENTS](#Contents) | [UP]() | [DOWN](#version-3.9)
 * Detailed Version Changes [here]()
 
 ---
 
 ## Version 3.9
-[CONTENTS](#Contents) | [UP](#Version-3.10) | [DOWN](#Version-3.8)
+[CONTENTS](#Contents) | [UP](#version-3.10) | [DOWN](#version-3.8)
 * Detailed Version Changes [here]()
 
 ---
 
 ## Version 3.8
-[CONTENTS](#Contents) | [UP](#Version-3.9) | [DOWN](#Version-3.7)
+[CONTENTS](#Contents) | [UP](#version-3.9) | [DOWN](#version-3.7)
 Detailed Version Changes [here](https://docs.python.org/3/whatsnew/3.8.html)
 ### **Assignment Expressions (Walrus Operator)**
 * Assign varibles at the time of comparison. 
@@ -83,10 +83,10 @@ age=25
 ---
 
 ## Version 3.7
-[CONTENTS](#Contents) | [UP](#Version-3.8) | [DOWN](#Version-3.6)
+[CONTENTS](#Contents) | [UP](#version-3.8) | [DOWN](#version-3.6)
 * Detailed Version Changes [here]()
 
 ---
 
 ## Version 3.6
-[CONTENTS](#Contents) | [UP](#Version-3.7) | [DOWN]()
+[CONTENTS](#Contents) | [UP](#version-3.7) | [DOWN]()

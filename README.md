@@ -11,9 +11,9 @@ keep your skills sharp!
 - [Version 3.10](#version-310)
 - [Version 3.9](#version-39)
 - [Version 3.8](#version-38)
-  * [**Assignment Expressions AKA Walrus Operator**](#--assignment-expressions-aka-walrus-operator--)
-  * [**Positional-only parameters**](#--positional-only-parameters--)
-  * [**F string = Support**](#--f-string-=-support--)
+  * [**Assignment Expressions AKA Walrus Operator**](#**assignment-expressions-aka-walrus-operator**)
+  * [**Positional-only parameters**](#**positional-only-parameters**)
+  * [**F string = Support**](#**f-string-=-support**)
 - [Version 3.7](#version-37)
 - [Version 3.6](#version-36)
 

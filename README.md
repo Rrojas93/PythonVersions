@@ -11,9 +11,9 @@ keep your skills sharp!
 - [Version 3.10](#version-310)
 - [Version 3.9](#version-39)
 - [Version 3.8](#version-38)
-  * [**Assignment Expressions AKA Walrus Operator**](#**assignment-expressions-aka-walrus-operator**)
-  * [**Positional-only parameters**](#**positional-only-parameters**)
-  * [**F string = Support**](#**f-string-=-support**)
+  * [Assignment Expressions AKA Walrus Operator](#assignment-expressions-aka-walrus-operator)
+  * [Positional-only parameters](#positional-only-parameters)
+  * [F string = Support](#f-string-=-support)
 - [Version 3.7](#version-37)
 - [Version 3.6](#version-36)
 
@@ -37,7 +37,7 @@ keep your skills sharp!
 ## Version 3.8
 [CONTENTS](#Contents) | [UP](#version-39) | [DOWN](#version-37)
 * Detailed Version Changes [here](https://docs.python.org/3/whatsnew/3.8.html)
-### **Assignment Expressions AKA Walrus Operator**
+### Assignment Expressions AKA Walrus Operator
 * Assign varibles at the time of comparison. 
 ```python
 # Before: 
@@ -54,7 +54,7 @@ if(results := re.findall(r'someMatch', dataString)):
     print(results)
 ```
 
-### **Positional-only parameters**
+### Positional-only parameters
 * Use "/" to indicate that certain function input params are positional and cannot be 
 used as keywords. 
 ```python
@@ -75,7 +75,7 @@ showCar("Nissan", model="Altima", year=2018, miles=50000, color="yellow", body_t
 ```
 
 
-### **F string = Support**
+### F string = Support
 * "{var=}" in f-strings expand to var=value text. 
 ```python
 age = 25

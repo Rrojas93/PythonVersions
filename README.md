@@ -8,30 +8,36 @@ keep your skills sharp!
 * More detailed release notes can be found as links to more detailed release pages.
 
 ## Contents
-* [3.10](#version-3.10)
-* [3.9](#version-3.9)
-* [3.8](#version-3.8)
-* [3.7](#version-3.7)
-* [3.6](#version-3.6)
+- [Version 3.10](#version-310)
+- [Version 3.9](#version-39)
+- [Version 3.8](#version-38)
+  * [**Assignment Expressions AKA Walrus Operator**](#--assignment-expressions-aka-walrus-operator--)
+  * [**Positional-only parameters**](#--positional-only-parameters--)
+  * [**F string = Support**](#--f-string-=-support--)
+- [Version 3.7](#version-37)
+- [Version 3.6](#version-36)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ---
 
 ## Version 3.10
-[CONTENTS](#Contents) | [UP]() | [DOWN](#version-3.9)
+[CONTENTS](#Contents) | [UP](#Contents) | [DOWN](#version-39)
 * Detailed Version Changes [here]()
 
 ---
 
 ## Version 3.9
-[CONTENTS](#Contents) | [UP](#version-3.10) | [DOWN](#version-3.8)
+[CONTENTS](#Contents) | [UP](#version-310) | [DOWN](#version-38)
 * Detailed Version Changes [here]()
 
 ---
 
 ## Version 3.8
-[CONTENTS](#Contents) | [UP](#version-3.9) | [DOWN](#version-3.7)
-Detailed Version Changes [here](https://docs.python.org/3/whatsnew/3.8.html)
-### **Assignment Expressions (Walrus Operator)**
+[CONTENTS](#Contents) | [UP](#version-39) | [DOWN](#version-37)
+* Detailed Version Changes [here](https://docs.python.org/3/whatsnew/3.8.html)
+### **Assignment Expressions AKA Walrus Operator**
 * Assign varibles at the time of comparison. 
 ```python
 # Before: 
@@ -69,7 +75,7 @@ showCar("Nissan", model="Altima", year=2018, miles=50000, color="yellow", body_t
 ```
 
 
-### **F-string "=" Support.**
+### **F string = Support**
 * "{var=}" in f-strings expand to var=value text. 
 ```python
 age = 25
@@ -83,10 +89,10 @@ age=25
 ---
 
 ## Version 3.7
-[CONTENTS](#Contents) | [UP](#version-3.8) | [DOWN](#version-3.6)
+[CONTENTS](#Contents) | [UP](#version-38) | [DOWN](#version-36)
 * Detailed Version Changes [here]()
 
 ---
 
 ## Version 3.6
-[CONTENTS](#Contents) | [UP](#version-3.7) | [DOWN]()
+[CONTENTS](#Contents) | [UP](#version-37) | DOWN

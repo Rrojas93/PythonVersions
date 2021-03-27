@@ -40,7 +40,7 @@ if(list_length > 100):
     print(f"The list length is large: {list_length}")
 
 # After:
-if(list_length := len(someList)):
+if(list_length := len(someList) > 100):
     print(f"The list length is large: {list_length}")
 
 # Useful example:
